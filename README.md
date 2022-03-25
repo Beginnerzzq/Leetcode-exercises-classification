@@ -5,3 +5,5 @@
 ### 	链表
 
 * [q0021_合并两个有序链表](./LinkedList/0021_合并两个有序链表/README.md)
+* [q0083_删除排序链表中的重复元素](./LinkedList/0083_删除排序链表中的重复元素/README.md)
+* [q0141_环形链表](./LinkedList/0141_环形链表/README.md)
