@@ -13,3 +13,8 @@
 * [q0234_回文链表](./LinkedList/0234_回文链表/README.md)
 * [q0237_删除链表中的节点](./LinkedList/0237_删除链表中的节点/README.md)
 * [q0876_链表的中间结点](./LinkedList/0876_链表的中间结点/README.md)
+* [q1290_二进制链表转整数](./LinkedList/1290_二进制链表转整数/README.md)
+
+### 栈
+
+* [q0020_有效的括号](./Stack/0020_有效的括号/README.md)
